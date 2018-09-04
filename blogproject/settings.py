@@ -26,7 +26,7 @@ SECRET_KEY = '=219yw9639wv=w(zhlllli2^7j^y)cp-gd3#4s)46_k%0mxnc8'
 DEBUG = True
 
 # ALLOWED_HOSTS = []
-# ALLOWED_HOSTS = ['127.0.0.1','localhost','.zhaolizhi.xyz','120.77.182.38']
+ALLOWED_HOSTS = ['120.77.182.38','127.0.0.1','localhost','.zhaolizhi.xyz']
 
 
 
